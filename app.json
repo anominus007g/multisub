@@ -11,11 +11,11 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": ""
+      "value": "7094643459:AAHj5ocNGSTnoPbZI_NU2yWran7HXfQWaMA"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "1331434457"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -23,11 +23,11 @@
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
-      "value": "url"
+      "value": "mongodb+srv://kang:<rscUQKiLFv6aogR7>@cluster0.c10evup.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "filesharexbot"
+      "value": "Cluster0"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
@@ -35,23 +35,23 @@
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-100"
+      "value": "-1001973804304"
     },
     "FORCE_SUB_CHANNEL_1":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "-1001932990033"
     },
     "FORCE_SUB_CHANNEL_2":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "-1001803674305"
     },
     "FORCE_SUB_CHANNEL_3":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "-1001971472056"
     },
     "FORCE_SUB_CHANNEL_4":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "-1001973804304"
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
