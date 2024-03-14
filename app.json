@@ -23,7 +23,7 @@
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
-      "value": "mongodb+srv://kanishkagarg:<XY0rw2EtDwCrHTYi>@cluster0.6cirkqm.mongodb.net/?retryWrites=true&w=majority"
+      "value": "mongodb+srv://kanishkagarg:XY0rw2EtDwCrHTYi@cluster0.6cirkqm.mongodb.net/?retryWrites=true&w=majority"
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
